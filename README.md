@@ -11,7 +11,7 @@ Institute Management Software is designed to streamline administrative and finan
 
 *   Students
 *   Courses
-*   Professors/Instructors
+*   Professors (Instructors)
 *   Subscriptions
 *   Revenues
 *   Expenses
