@@ -11,7 +11,7 @@ Institute Management Software is designed to streamline administrative and finan
 
 *   Students
 *   Courses
-*   Professors (Instructors)
+*   Teacher
 *   Subscriptions
 *   Revenues
 *   Expenses
@@ -24,10 +24,10 @@ The software also enables the generation of comprehensive reports to track insti
 
 *   **Student Management:** Student registration and management of personal data.
 *   **Course Management:** Creation, management, and student enrollment in courses.
-*   **Professor (Instructor) Management:** Recording professor (instructor) data and their assigned courses.
+*   **Teacher Management:** Recording Teacher data and their assigned courses.
 *   **Subscription and Installment Management:** Recording subscriptions, tracking installment payments, and issuing invoices.
 *   **Revenue and Expense Management:** Recording all financial transactions and generating financial reports.
-*   **Salary Management:** Calculating and disbursing employee and professor (instructor) salaries.
+*   **Salary Management:** Calculating and disbursing employee and Teacher salaries.
 *   **Reporting:** Generating periodic and comprehensive reports on students, courses, financial performance, and more.
 
 ## Purpose
