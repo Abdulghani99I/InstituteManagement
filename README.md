@@ -34,10 +34,6 @@ The software also enables the generation of comprehensive reports to track insti
 
 This software aims to improve the efficiency of institute management, saving time and effort, and allowing administrators to focus on enhancing the quality of education.
 
-## Getting Started (Optional - Add if applicable)
-
-If you have instructions on how to set up or use the software, include them here. For example:
-
 ---
 
 ### Installation (EXE FILE):
